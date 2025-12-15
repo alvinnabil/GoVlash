@@ -41,6 +41,9 @@ Before running the application, make sure you have:
   - Go to : File -> Import -> Existing Project Into Workspace
   - Select the cloned project folder
   - Click Finish
+ 
+- Add Library in Build Path that include External JAR's 
+  - Library that should be added : jafafx-sdk, mysql-connector-java
 
 - Database Setup
   - Create a new MySQL database : CREATE DATABASE govlash_laundry;
