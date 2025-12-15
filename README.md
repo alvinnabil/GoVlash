@@ -66,6 +66,7 @@ Before running the application, make sure you have:
 - This application uses Swing, not JavaFX.
 - VM arguments are not required.
 - Database connection is executed only during login to avoid UI freezing.
+- For jafafx-sdk and mysql-connector-java you can find and download it on google or the other trusted platform such as github etc.
 
 # Author
 Alvin Nabil Thoriq
