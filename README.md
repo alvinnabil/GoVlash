@@ -78,7 +78,7 @@ Software Engineering Student At Binus University | Full Stack Developer
 
 # License
 
-This project is available and open for learning and personal use
+This project is open source and available for learning and personal use.
 
 
 
