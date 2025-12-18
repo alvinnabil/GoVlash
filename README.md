@@ -70,6 +70,8 @@ Before running the application, make sure you have:
 
 # Author
 Alvin Nabil Thoriq
+* Portfolio: [https://vinndev.vercel.app](https://vinndev.vercel.app)
+* LinkedIn : [www.linkedin.com/in/alvin-nabil-8972792a7](www.linkedin.com/in/alvin-nabil-8972792a7)
 
 *Software Engineering Student*
 
